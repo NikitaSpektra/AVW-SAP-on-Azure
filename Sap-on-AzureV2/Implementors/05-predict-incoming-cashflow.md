@@ -315,7 +315,7 @@ The best model is selected based on the error between the predicted **Payment Of
    
 ## Summary
 
-In this exercise, you have covered the following:
+In this exercise, you:
 
 * Created Automated ML Run and deployed best-trained model.
 * Tested the best-trained Model and reviewed the results.   
